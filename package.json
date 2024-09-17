@@ -1,0 +1,10 @@
+{
+  "name": "trpc-gotodef",
+  "packageManager": "pnpm@9.10.0",
+  "scripts": {
+    "build": "pnpm -F trpc build"
+  },
+  "dependencies": {
+    "trpc": "workspace:*"
+  }
+}
